@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(to bottom right, rgb(20, 70, 10), rgb(0, 0, 0));
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin-bottom: 5rem;
+}
+
+.quote {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Arial Narrow Bold';
+    letter-spacing: 1px;
+    margin: auto;
+    width: 40%;
+    color: rgb(228, 228, 46);
+}
+
+.author {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Arial Narrow Bold';
+    letter-spacing: 1px;
+    padding-top: 1rem;
+    margin: auto;
+    color: rgb(228, 228, 46);
+}
+
+.footer {
+    margin-bottom: 5rem;
+}
